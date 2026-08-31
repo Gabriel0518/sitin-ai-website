@@ -1,0 +1,7 @@
+.DS_Store
+.git
+.gitignore
+.vercelignore
+outputs/
+work/
+sitin-ai-website/
